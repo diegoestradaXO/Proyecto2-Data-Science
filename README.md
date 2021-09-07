@@ -4,11 +4,17 @@ Como Ejecutar aplicación de Dash:
 
 Tener instaladas lis librerías:
 -numpy
+
 -pandas
+
 -plotly
+
 -seaborn
+
 -cv2
+
 -pydicom
+
 -glob
 
 Se pueden instalar por medio del comando
